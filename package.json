@@ -10,7 +10,6 @@
     "test": "jest && standard"
   },
   "dependencies": {
-    // "@probot/serverless-lambda": "git+ssh://git@github.com/probot/serverless-lambda.git",
     "jsdom": "^11.6.2",
     "nodemon": "^1.17.1",
     "probot": "^6.2.0"
